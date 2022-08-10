@@ -1,0 +1,27 @@
+{
+  "name": "miniprogram-zeed-dom",
+  "version": "0.1.0",
+  "description": "🌱 Lightweight offline DOM",
+  "miniprogram": "dist",
+  "author": {
+    "name": "Dirk Holtwick",
+    "email": "dirk.holtwick@gmail.com",
+    "url": "https://holtwick.de"
+  },
+  "homepage": "https://github.com/holtwick/zeed-dom",
+  "repository": "https://github.com/xiaweiss/miniprogram-zeed-dom",
+  "license": "MIT",
+  "funding": {
+    "type": "GitHub Sponsors ❤",
+    "url": "https://github.com/sponsors/holtwick"
+  },
+  "bugs": {
+    "url": "https://github.com/holtwick/zeed-dom/issues"
+  },
+  "dependencies": {
+    "css-what": "^6.1.0"
+  },
+  "devDependencies": {
+    "zeed-dom": "^0.9.25"
+  }
+}
