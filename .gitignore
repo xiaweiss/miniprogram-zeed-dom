@@ -1,0 +1,9 @@
+node_modules
+pnpm*
+.pnpm*
+tmp
+*.log
+.out*
+test
+coverage
+.DS_Store
